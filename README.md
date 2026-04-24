@@ -30,6 +30,6 @@ Your team must divide into the following roles. Each role has specific files to 
 
 ## Instructions
 1. Navigate to the `starter_code/` directory.
-2. Read the `TODO` comments assigned to your specific role.
+2. Review the implementation comments assigned to your specific role.
 3. Collaborate with your team. **The Builder cannot finish their job until the Architect finishes the Schema.**
 4. Run `python orchestrator.py` to test your pipeline.
